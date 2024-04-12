@@ -5,6 +5,6 @@ public class Guitarra extends Instrumento {
 
     @Override
     public void play() {
-        System.out.println("Playing the guitar: " + getNome());
+        System.out.println("Tocando a guitarra: " + getNome());
     }
 }

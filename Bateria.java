@@ -4,6 +4,6 @@ public class Bateria extends Instrumento{
     }
     @Override
     public void play() {
-        System.out.println("Playing the drum: " + getNome());
+        System.out.println("Tocando a bateria: " + getNome());
     }
 }
